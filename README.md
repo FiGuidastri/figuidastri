@@ -20,4 +20,4 @@ Sou analista de dados:
 
 
 ### Cursos
-[<img src="[https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)" height="50"></a>]
+[<img src="[https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png](https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png)" height="50"></a>]()
