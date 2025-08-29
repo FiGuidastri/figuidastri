@@ -2,8 +2,9 @@
 
 Sou analista de dados:  
 
-Linguagens:
-[<img src="https://www.python.org/static/img/python-logo.png" height="80">](https://www.python.org/)
+### Linguagens:
+
+[<img src="https://github.com/hugovk/python-logos/blob/main/img/Python.png?raw=true" height="80">](https://www.python.org/)
 
 ---
 
