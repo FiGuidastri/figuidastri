@@ -36,4 +36,4 @@ Sou analista de dados:
 
 ### Cursos
 
-[<img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" height="50">](https://cursos.alura.com.br/course/logica-programacao-challenge-amigo-secreto)
+[<img src="https://cdn1.gnarususercontent.com.br/6/409216/ff043987-239b-4661-bdb1-7f4ca6092c48.png" height="65">](https://cursos.alura.com.br/course/logica-programacao-challenge-amigo-secreto)
