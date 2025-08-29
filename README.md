@@ -4,7 +4,7 @@ Sou analista de dados:
 
 ### Linguagens e Stacks:
 
-[<img src="[https://github.com/hugovk/python-logos/blob/main/img/Python.png?raw=true](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)" height="50">](https://www.python.org/)
+[<img src="(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)" height="50">](https://www.python.org/)
 
 [<img src="https://s3.us-west-2.amazonaws.com/content.podia.com/iiu3hb9rvquyj4iazcz8rhivdddr" height="50">](https://www.w3schools.com/sql/)
 
