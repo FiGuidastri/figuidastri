@@ -1,9 +1,9 @@
 # Olá, meu nome é Filipe Guidastri 👋
 
 Sou analista de dados:  
-- Trabalho com **Python**, **SQL** e **Excel**  
-- Especialista em **Power BI**  
-- Estudando ferramentas de **Big Data** e **Machine Learning**
+
+Linguagens:
+[<img src="https://www.python.org/static/img/python-logo.png" height="80">](https://www.python.org/)
 
 ---
 
