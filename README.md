@@ -2,9 +2,10 @@
 
 Sou analista de dados:  
 
-### Linguagens:
+### Linguagens e Stacks:
 
 [<img src="https://github.com/hugovk/python-logos/blob/main/img/Python.png?raw=true" height="80">](https://www.python.org/)
+[<img src="https://s3.us-west-2.amazonaws.com/content.podia.com/iiu3hb9rvquyj4iazcz8rhivdddr" height="50">]
 
 ---
 
