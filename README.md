@@ -6,7 +6,7 @@ Sou analista de dados:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="50">](https://www.python.org/)
 [<img src="https://s3.us-west-2.amazonaws.com/content.podia.com/iiu3hb9rvquyj4iazcz8rhivdddr" height="50">](https://www.w3schools.com/sql/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="50">](https://www.w3schools.com/sql/](https://www.php.net/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="50">](https://www.php.net/)
 
 ---
 
