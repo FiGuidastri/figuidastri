@@ -1,6 +1,6 @@
 # Olá, meu nome é Filipe Guidastri 👋
 
-Sou analista de dados:  
+Sou engenheiro de dados e automação 
 
 ### Linguagens e Stacks:
 
